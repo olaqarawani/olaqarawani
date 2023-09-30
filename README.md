@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olaqarawani
-- 👀 I’m interested in Codind and Data Science
+- 👀 I’m interested in Coding and Data Science
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on nasa or google
 - 📫 How to reach me olaqarawanii@gmail.com
